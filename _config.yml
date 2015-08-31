@@ -1,0 +1,7 @@
+name:          Code Guide by @MOINTE
+description:   Standards for developing flexible, durable, and sustainable HTML, CSS, and JavaScript
+url:           https://github.com/MOINTE/code-guide
+
+markdown:      rdiscount
+permalink:     pretty
+pygments:      true
