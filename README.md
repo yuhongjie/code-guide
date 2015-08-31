@@ -7,5 +7,5 @@ Released under MIT by, and copyright 2015, @MOINTE.
 
 ### Thanks
 
-Heavily inspired by [Alloy Team](https://github.com/AlloyTeam/CodeGuide) and the [GitHub Styleguide](http://github.com/mdo/code-guide).
+Heavily inspired by [AlloyTeam CodeGuide](https://github.com/AlloyTeam/CodeGuide) and the [Airbnb Javascript StyleGuide](https://github.com/airbnb/javascript).
 
